@@ -7,7 +7,7 @@ Using the Heston model, it is possible to calculate the price of a put option an
 
 However, it is important to note that the Heston model is a theoretical and simplified model that does not take into account all the factors that may influence the option price. Therefore, the results obtained with this model should be interpreted with caution and evaluated in conjunction with other option pricing analyses and techniques.
 
-## Step:
+## Steps:
 1) Run the first model, setting the start date of the time series as desired. Observe the strike price obtained at the end of the model.
 2) Enter the strike price into the second model, set the input parameters and the risk free rate, if desired, you can also enter the margin to calculate the margin call probability.
 
